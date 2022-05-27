@@ -1,0 +1,4 @@
+Compiler : 
+	javac basic.java
+	java basic
+
