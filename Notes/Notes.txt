@@ -2,3 +2,4 @@ Compiler :
 	javac basic.java
 	java basic
 
+https://www.geeksforgeeks.org/strings-in-java/
